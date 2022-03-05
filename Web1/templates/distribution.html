@@ -1,0 +1,12 @@
+{%extends 'base.html'%}
+
+{% block content %}
+<h1>Размещение по каютам</h1>
+    {%for i in range(0, len)%}
+        {%if i==0:%}
+            <h5>{{astronauts[i]}} - Каюта № {{i+1}} - Капитан</h5>
+        {%else:%}
+            <h5>{{astronauts[i]}} - Каюта № {{i+1}}</h5>
+        {%endif%}
+    {%endfor%}
+{% endblock %}
