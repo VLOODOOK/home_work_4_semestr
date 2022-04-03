@@ -1,0 +1,24 @@
+{
+  "member": [
+    {
+      "title": "Ридди Скотт",
+      "content": "Главный инженер",
+      "image": "../static/m1.jpg"
+    },
+    {
+      "title": "Пол Вокер",
+      "content": "Медик",
+      "image": "../static/m2.jpg"
+    },
+    {
+      "title": "Вин Дизель",
+      "content": "Повар",
+      "image": "../static/m3.jpg"
+    },
+    {
+      "title": "Дуэйн Джонсон",
+      "content": "Турист",
+      "image": "../static/m4.jpg"
+    }
+  ]
+}
